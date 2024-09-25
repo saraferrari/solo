@@ -1,1 +1,1 @@
-{"import_csv": true, "gen_triples": true, "encode": false, "index": false}
+{"import_csv": true, "gen_triples": true, "encode": true, "index": true}
